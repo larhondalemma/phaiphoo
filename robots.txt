@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iequafaso.team2408.com/sitemap.xml
